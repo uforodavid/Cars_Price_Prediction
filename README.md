@@ -4,9 +4,10 @@
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Data Source](#source)
+4. [File Descriptions](#files)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 Installation of Python 3, Numpy, Pandas Matplotlib, Seaborn, and Scikit learn libraries are sufficient to run the codes in the notebook. 
@@ -20,9 +21,11 @@ For this project, I was interested in building a regression model to predict sel
 5. Which gear transmission type is most expensive, automatic or manual?
 5. Does age of cars from first purchase affect the selling price?
 
+## Data Source <a name="source"></a>
+The data for this project was gotten from Kaggle Used Vehicle Dataset from CarDekho. The data on Kaggle can be found [here.](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv)
+
 ## File Descriptions <a name="files"></a>
 There is one note book file that contains the exploratory data analysis and model building. Markdown cells were used to assist in walking through the process for individual steps.
-
 
 ## Results <a name="results"></a>
 The main findings and answers to the questions can be found on a blog post [here](https://uforodavid.medium.com/this-analysis-will-make-you-better-informed-for-your-next-car-purchase-3bdc147c7eec)
