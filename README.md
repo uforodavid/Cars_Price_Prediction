@@ -31,4 +31,4 @@ There is one note book file that contains the exploratory data analysis and mode
 The main findings and answers to the questions can be found on a blog post [here](https://uforodavid.medium.com/this-analysis-will-make-you-better-informed-for-your-next-car-purchase-3bdc147c7eec)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv). Otherwise, feel free to use the code here!
+Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv). feel free to use the code here!
