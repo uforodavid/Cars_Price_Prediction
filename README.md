@@ -13,7 +13,7 @@
 Installation of Python 3, Numpy, Pandas Matplotlib, Seaborn, and Scikit learn libraries are sufficient to run the codes in the notebook. 
 
 ## Project Motivation <a name="motivation"></a>
-For this project, I was interested in building a regression model to predict selling price of cars in Kaggle's Car dataset and also find answers to the following questions:
+I was interested in building a regression model to predict selling price of cars in Kaggle's Car dataset and also find answers to the following questions:
 1. Which features of a car has the most impact on the price of the car?
 2. Does the distance covered by the cars before sale affect the price of cars?
 3. Which is most expensive, diesel or petrol cars?
